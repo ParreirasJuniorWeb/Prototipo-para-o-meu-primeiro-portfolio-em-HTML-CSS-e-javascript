@@ -1,0 +1,2 @@
+**Meu primeiro Portfólio em HTML, CSS e javascript simples**
+Criação do meu primeiro portfólio usando as tecnologias HTML, CSS e javascript para compor a estrutura, o layout e as funcionalidades simples como os eventos da barra de navegação, validação dos campos do formulário de contato e até partes mais complexos como uma tentativa de criação de um maketplace com animações em javascript para a interação com o carrinho de compras e os itens selecionados pelos usuários que serão acrescidos ao carrinho e somatório dos preços.
